@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "qrmobile",
+    "slug": "qrmobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "qrmobile"
+}
